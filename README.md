@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,6 +23,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# login_app
->>>>>>> 146b9d888dc5a52a8356af74863ebe29dafe733b
+

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa487eeb-44d0-4550-bf6a-99e750df415c" name="Default Changelist" comment="" />
+    <list default="true" id="fa487eeb-44d0-4550-bf6a-99e750df415c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -36,6 +38,7 @@
           <entry key="erb" value="11" />
           <entry key="js" value="1" />
           <entry key="log" value="1" />
+          <entry key="md" value="1" />
           <entry key="rb" value="16" />
           <entry key="scss" value="2" />
           <entry key="yml" value="1" />
@@ -45,6 +48,7 @@
         <counts>
           <entry key="CSS" value="1" />
           <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RHTML" value="11" />
           <entry key="Ruby" value="18" />
@@ -148,8 +152,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/users/_user.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            <state relative-caret-position="330">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -206,6 +210,7 @@
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/_user.html.erb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -447,7 +452,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12566000" />
+    <option name="totallyTimeSpent" value="13060000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -686,10 +691,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/_user.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="330">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
